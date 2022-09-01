@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-responsive-nav/static/css/main.25e1b338.css",
+    "main.js": "/react-responsive-nav/static/js/main.ff745d31.js",
+    "index.html": "/react-responsive-nav/index.html",
+    "main.25e1b338.css.map": "/react-responsive-nav/static/css/main.25e1b338.css.map",
+    "main.ff745d31.js.map": "/react-responsive-nav/static/js/main.ff745d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e1b338.css",
+    "static/js/main.ff745d31.js"
+  ]
+}
